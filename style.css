@@ -1,0 +1,34 @@
+body{
+        height: 150%;
+    
+    background-image: url("https://img.freepik.com/free-photo/physical-paper-book-background-closeup_58702-6624.jpg?size=626&ext=jpg&ga=GA1.1.937687561.1710832007&semt=ais");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.search{
+    display: flex !important;
+
+    justify-content: center !important;
+    margin-top: 50px;
+    
+}
+.searchbar{
+    height: 38px !important;
+    width: 25% !important;
+    border-radius: 10px !important;
+    background: none;
+    
+}
+
+
+.books{
+    color: aliceblue !important;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    
+    
+    
+}
